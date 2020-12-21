@@ -1,0 +1,7 @@
+Steps to run this project:
+1. Install java in our system.
+2. Then compile and run calculator.java file:
+	2.1 for compile = javac calculator.java
+	2.2 for run = java calculator   in cmd.
+
+thanks :)
